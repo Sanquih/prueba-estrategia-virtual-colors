@@ -1,0 +1,27 @@
+PRUEBA
+
+- Realizar la maquetación de la actividad interactiva ubicada en "prototipo/prototipo-1.jpg"
+- La maquetación debe realizarse con HTML5, CSS3, y JavaScript
+- Se puede hacer uso de librerias como Bootstrap, Jquery o cualquier otra que consideren necesaria
+- Cuando haga click en la opción 1 (estragegia 1) debe salir un modal como se muestra en 
+	"prototipo/prototipo-2.jpg" y dentro del modal debe cargarse el video que se encuentra en
+	"videos/video-1.mp4". Esto mismo debe ocurrir cuando el usuario haga click en las opcion 2, 3 y 4
+- El usuario debe ver los videos en orden, es decir, la opción 2, 3 y 4 deben estar bloqueadas,
+	la opción 2 se desbloquea cuando el usuario haya visualizado la opcion 1,
+	la opción 3 se desbloquea cuando el usuario haya visualizado la opcion 2,
+	y la opción 4 se desbloquea cuando el usuario haya visualizado la opcion 3.
+- La maquetación de la actividad debe ser responsive, es decir, debe poder visualizarse en celulares
+- Las 4 opciones, modales y demás botones de la maquetación deben tener animaciones o transiciones cuando
+	el usuario haga click o pase el cursor sobre ellos.
+- El video que sale en el modal debe cerrarse por si solo al finalizar, y también se debe incluir un
+	botón cerrar "x" en el modal para cerrarlo manualmente
+- Realizar la maquetación lo más parecido posible al prototipo.
+- En la carpeta "imagenes" se encuentran todos los elementos gráficos necesarios en formato "svg" y "png/jpg"
+- Los botones del menú superior y menú derecho no tienen ninguna funcionalidad, solo estan de adorno,
+	sin embargo deben estar maquetados y tener su animación de efecto hover.
+
+Esta es la lista de colores que se usan en la actividad:
+color azul claro: #5BA0DC
+color verde: #4DAEA9
+color azul oscuro: #004489
+color amarillo: #E4E744
