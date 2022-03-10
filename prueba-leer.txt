@@ -21,7 +21,8 @@ PRUEBA
 	sin embargo deben estar maquetados y tener su animación de efecto hover.
 
 Esta es la lista de colores que se usan en la actividad:
-color azul claro: #5BA0DC
+color azul claro 1: #00a1e1
+color azul claro 2: #07a1df
 color verde: #4DAEA9
 color azul oscuro: #004489
 color amarillo: #E4E744
